@@ -540,7 +540,7 @@
   "delete_shared_link": "Poista jaettu linkki",
   "delete_tag": "Poista tunniste",
   "delete_tag_confirmation_prompt": "Haluatko varmasti poistaa tunnisteen {tagName}?",
-  "delete_user": "Poista käyttäjä pysyvästi",
+  "delete_user": "Poista käyttäjä",
   "deleted_shared_link": "Jaettu linkki poistettu",
   "deletes_missing_assets": "Poistaa levyltä puuttuvat resurssit",
   "description": "Kuvaus",
